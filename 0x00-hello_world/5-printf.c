@@ -1,8 +1,7 @@
-f .c
 #include <stdio.h>
 /**
 *main - Entry point
-*my hello, printf task
+*My hello, printf task
 *Return: return 1 after program execution
 */
 int main(void)
