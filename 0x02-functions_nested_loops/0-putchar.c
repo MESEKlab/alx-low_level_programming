@@ -1,12 +1,12 @@
 #include "main.h"
 /**
- * main - Entry point
+ * main - entry block
  * @void: no argument
  * Return: 0
- */
+ **/
 int main(void)
 {
-	char ermias[] - "_putchar";
+	char ermias[] = "_putchar";
 
 	int c;
 
